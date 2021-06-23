@@ -1,2 +1,2 @@
-# CV Website (Version 2)
+# CV Website
 karthikrathinavel.github.io/cv/
