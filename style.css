@@ -115,3 +115,17 @@ hr{
   background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
   text-decoration: none;
 }
+.walk{
+	position: absolute;
+	bottom: -150px;
+	left: 0px;
+}
+.walk1{
+	position: absolute;
+	bottom: -150px;
+	right: 0px;
+	transform: scaleX(-1);
+}
+.contact-me{
+	position: relative;
+}
